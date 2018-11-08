@@ -1,4 +1,4 @@
-#fastboot oem device-info
+# fastboot oem device-info
 
 fastboot flashing unlock_critical
 
